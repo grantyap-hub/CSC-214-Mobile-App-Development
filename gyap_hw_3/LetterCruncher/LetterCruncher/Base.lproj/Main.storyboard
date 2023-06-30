@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="16097.3" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="16087"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="LetterCruncher" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="LetterCruncher" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="SCQ-SW-xib">
+                                <rect key="frame" x="125.5" y="104" width="163.5" height="30"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="SCQ-SW-xib" secondAttribute="height" multiplier="163:30" id="zjC-OA-DNn"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
+                                <color key="textColor" red="1" green="0.72986853659999995" blue="0.1205895406" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="center" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="Rhi-or-bTU">
+                                <rect key="frame" x="135" y="235.5" width="144" height="34"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="Rhi-or-bTU" secondAttribute="height" multiplier="72:17" id="ZKe-vK-xQU"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="allCharacters"/>
+                                <connections>
+                                    <action selector="TextChanger:" destination="BYZ-38-t0r" eventType="editingChanged" id="7KP-jB-er4"/>
+                                </connections>
+                            </textField>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Number" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="s6O-8I-Xet">
+                                <rect key="frame" x="118" y="169" width="178" height="26.5"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="s6O-8I-Xet" secondAttribute="height" multiplier="175:26" id="Tnk-B8-6Ts"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="22"/>
+                                <color key="textColor" systemColor="systemRedColor" red="1" green="0.23137254900000001" blue="0.18823529410000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                        <constraints>
+                            <constraint firstItem="Rhi-or-bTU" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="IK4-ne-6Nh"/>
+                            <constraint firstItem="SCQ-SW-xib" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="MnQ-NX-pvA"/>
+                            <constraint firstItem="s6O-8I-Xet" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="amB-sB-xkH"/>
+                            <constraint firstItem="s6O-8I-Xet" firstAttribute="top" secondItem="SCQ-SW-xib" secondAttribute="bottom" constant="35" id="bAw-Op-Tji"/>
+                            <constraint firstItem="Rhi-or-bTU" firstAttribute="top" secondItem="s6O-8I-Xet" secondAttribute="bottom" constant="40" id="f7B-G1-fFP"/>
+                            <constraint firstItem="SCQ-SW-xib" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="60" id="ufA-eu-qSh"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                    </view>
+                    <connections>
+                        <outlet property="ExampleText" destination="Rhi-or-bTU" id="Sbe-Yu-nij"/>
+                        <outlet property="LabelText" destination="s6O-8I-Xet" id="cHY-Os-joL"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="137.68115942028987" y="115.84821428571428"/>
+        </scene>
+    </scenes>
+</document>
