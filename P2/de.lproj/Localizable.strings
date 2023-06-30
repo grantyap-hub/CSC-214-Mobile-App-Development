@@ -1,0 +1,28 @@
+/* 
+  Localizable.strings
+  P2
+
+  Created by Grant Yap on 10/25/20.
+  Copyright © 2020 Grant Yap. All rights reserved.
+*/
+"Title" = "Titel";
+"Purpose" = "Zweck";
+"Mileage" = "Kilometerstand";
+"Duration" = "Dauer";
+"Contacts" = "Kontakte";
+"Cancel" = "Stornieren";
+"Add" = "Hinzufügen";
+"Total Mileage" = "Gesamtkilometerstand";
+"Total Duration" = "Gesamtdauer";
+"Total Contacts" = "Kontakte insgesamt";
+"Back" = "Zurück";
+"Stat" = "Stat";
+"Mileage: " = "Kilometerstand: ";
+"Duration: " = "Dauer: ";
+"Contacts: " = "Kontakte: ";
+"Errand" = "Auftrag";
+"Visit" = "Besuch";
+"Exercise" = "Übung";
+"Welcome!" = "Herzlich willkommen!";
+"This app let's you track what you do on common visits, whether exercising, visiting somewhere, or running an errand, please enjoy!" = "Mit dieser App können Sie nachverfolgen, was Sie bei allgemeinen Besuchen tun, ob Sie trainieren, irgendwo einen Besuch abstatten oder eine Besorgung erledigen. Viel Spaß!";
+"Close" = "Schließen";

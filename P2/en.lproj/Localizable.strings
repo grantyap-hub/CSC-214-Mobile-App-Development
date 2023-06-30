@@ -1,0 +1,29 @@
+/* 
+  Localizable.strings
+  P2
+
+  Created by Grant Yap on 10/25/20.
+  Copyright © 2020 Grant Yap. All rights reserved.
+*/
+"Title" = "Title";
+"Purpose" = "Purpose";
+"Mileage" = "Mileage";
+"Duration" = "Duration";
+"Contacts" = "Contacts";
+"Cancel" = "Cancel";
+"Add" = "Add";
+"Total Mileage" = "Total Mileage";
+"Total Duration" = "Total Duration";
+"Total Contacts" = "Total Contacts";
+"Back" = "Back";
+"Stat" = "Stat";
+"Mileage: " = "Mileage: ";
+"Duration: " = "Duration: ";
+"Contacts: " = "Contacts: ";
+"Errand" = "Errand";
+"Visit" = "Visit";
+"Exercise" = "Exercise";
+"Welcome!" = "Welcome!";
+"This app let's you track what you do on common visits, whether exercising, visiting somewhere, or running an errand, please enjoy!" = "This app let's you track what you do on common visits, whether exercising, visiting somewhere, or running an errand, please enjoy!";
+"Close" = "Close";
+
