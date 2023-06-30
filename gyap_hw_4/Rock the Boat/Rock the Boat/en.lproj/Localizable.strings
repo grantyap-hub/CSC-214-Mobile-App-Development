@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  Rock the Boat
+
+  Created by Grant Yap on 10/11/20.
+  Copyright © 2020 Grant Yap. All rights reserved.
+*/
+
+"Start" = "Start";
+"Reset" = "Reset";

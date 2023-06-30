@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="16097.3" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="16087"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="Rock_the_Boat" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" spacing="12" translatesAutoresizingMaskIntoConstraints="NO" id="n6y-vd-682" userLabel="Btns Stack View">
+                                <rect key="frame" x="12" y="787" width="390" height="63"/>
+                                <subviews>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="JhF-gv-0bv">
+                                        <rect key="frame" x="0.0" y="0.0" width="189" height="63"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="42"/>
+                                        <state key="normal" title="Button">
+                                            <color key="titleColor" red="1" green="0.57810515169999999" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        </state>
+                                        <connections>
+                                            <action selector="OnStart:" destination="BYZ-38-t0r" eventType="touchUpInside" id="39k-NY-GPI"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="N0D-rP-7dG">
+                                        <rect key="frame" x="201" y="0.0" width="189" height="63"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="42"/>
+                                        <state key="normal" title="Button">
+                                            <color key="titleColor" red="1" green="0.57810515169999999" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        </state>
+                                        <connections>
+                                            <action selector="OnReset:" destination="BYZ-38-t0r" eventType="touchUpInside" id="dI7-aZ-o4B"/>
+                                        </connections>
+                                    </button>
+                                </subviews>
+                            </stackView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" alpha="0.20000000000000001" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="BoatImage" translatesAutoresizingMaskIntoConstraints="NO" id="eiN-5T-1KY">
+                                <rect key="frame" x="117.5" y="363.5" width="179" height="179"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="eiN-5T-1KY" secondAttribute="height" multiplier="1:1" id="jnY-V3-iJ8"/>
+                                </constraints>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" red="0.0" green="0.99143940210000003" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="n6y-vd-682" secondAttribute="bottom" constant="12" id="ADi-fY-o07"/>
+                            <constraint firstItem="eiN-5T-1KY" firstAttribute="centerX" secondItem="6Tk-OE-BBY" secondAttribute="centerX" id="Aat-5B-M8m"/>
+                            <constraint firstItem="n6y-vd-682" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="12" id="GBh-AY-Qi1"/>
+                            <constraint firstItem="eiN-5T-1KY" firstAttribute="height" secondItem="8bC-Xf-vdC" secondAttribute="height" multiplier="0.2" id="R3X-O9-Ud6"/>
+                            <constraint firstItem="eiN-5T-1KY" firstAttribute="centerY" secondItem="6Tk-OE-BBY" secondAttribute="centerY" id="SzC-Ik-vBd"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="n6y-vd-682" secondAttribute="trailing" constant="12" id="lpz-v9-8Pg"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                    </view>
+                    <connections>
+                        <outlet property="BoatImg" destination="eiN-5T-1KY" id="Jx4-t9-ghG"/>
+                        <outlet property="btnsBottomConstraint" destination="ADi-fY-o07" id="aRL-d9-GN8"/>
+                        <outlet property="resetbtn" destination="N0D-rP-7dG" id="AJY-xg-F6a"/>
+                        <outlet property="startbtn" destination="JhF-gv-0bv" id="nft-2z-qKh"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-196.20535714285714" y="92.753623188405811"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="BoatImage" width="60" height="60"/>
+    </resources>
+</document>
