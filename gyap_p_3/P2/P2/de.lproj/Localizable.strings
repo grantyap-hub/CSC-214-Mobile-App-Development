@@ -1,0 +1,40 @@
+/*
+  Localizable.strings
+  P2
+
+  Created by Grant Yap on 10/25/20.
+  Copyright © 2020 Grant Yap. All rights reserved.
+*/
+"Title" = "Titel";
+"Purpose" = "Zweck";
+"Kills" = "Kills";
+"Deaths" = "Todesfälle";
+"Assists" = "Assists";
+"Cancel" = "Stornieren";
+"Add" = "Hinzufügen";
+"Total Kills" = "Total Kills";
+"Total Deaths" = "Total Deaths";
+"Total Assists" = "Total Assists";
+"Back" = "Zurück";
+"Stat" = "Stat";
+"Mileage: " = "Kilometerstand: ";
+"Duration: " = "Dauer: ";
+"Contacts: " = "Kontakte: ";
+"Errand" = "Auftrag";
+"Visit" = "Besuch";
+"Exercise" = "Übung";
+"Welcome!" = "Herzlich willkommen!";
+"This app let's you track what you did during games, what champs (only a few) you've played, and how many kills, assists, and deaths you had in a game." = "Mit dieser App können Sie verfolgen, was Sie während der Spiele getan haben, welche Champions (nur wenige) Sie gespielt haben und wie viele Kills, Assists und Todesfälle Sie in einem Spiel hatten.";
+"Close" = "Schließen";
+"League of Legends kda tracker" = "League of Legends kda tracker";
+"Are you sure you want to delete \(title)? This cannot be undone!" = "Möchten Sie \ (Titel) wirklich löschen? Das kann nicht rückgängig gemacht werden!";
+"Warning" = "Warnung";
+"Delete" = "Löschen";
+"Cancel" = "Stornieren";
+"Blue" = "Blau";
+"Red" = "Rot";
+"Green" = "Green";
+"Purple" = "Lila";
+"Yellow" = "Gelb";
+"Pink" = "Rosa";
+"Button" = "Taste";

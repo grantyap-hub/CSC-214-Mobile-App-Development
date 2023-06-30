@@ -1,0 +1,66 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "0HE-ex-yGJ"; */
+"0HE-ex-yGJ.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "17h-lD-IR6"; */
+"17h-lD-IR6.text" = "Label";
+
+/* Class = "UILabel"; text = "10"; ObjectID = "2Hi-Ru-CWU"; */
+"2Hi-Ru-CWU.text" = "10";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "5js-xP-TLW"; */
+"5js-xP-TLW.text" = "Title";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "7sW-ru-uf9"; */
+"7sW-ru-uf9.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "8TC-QU-oNy"; */
+"8TC-QU-oNy.normalTitle" = "Cancel";
+
+/* Class = "UIButton"; normalTitle = "Stats"; ObjectID = "AVE-dc-Npu"; */
+"AVE-dc-Npu.normalTitle" = "Stats";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Ft3-Go-yfT"; */
+"Ft3-Go-yfT.text" = "Label";
+
+/* Class = "UILabel"; text = "Total Duration:"; ObjectID = "TFk-LR-K0k"; */
+"TFk-LR-K0k.text" = "Total Duration:";
+
+/* Class = "UILabel"; text = "2"; ObjectID = "TsV-QL-Byr"; */
+"TsV-QL-Byr.text" = "2";
+
+/* Class = "UILabel"; text = "Total Mileage:"; ObjectID = "XP7-gj-DP8"; */
+"XP7-gj-DP8.text" = "Total Mileage:";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "atl-cK-iDI"; */
+"atl-cK-iDI.text" = "Title";
+
+/* Class = "UILabel"; text = "contacts"; ObjectID = "cZ6-Qk-9De"; */
+"cZ6-Qk-9De.text" = "contacts";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "cnM-iU-2hx"; */
+"cnM-iU-2hx.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "Purpose"; ObjectID = "dDs-CT-hus"; */
+"dDs-CT-hus.text" = "Purpose";
+
+/* Class = "UILabel"; text = "mileage"; ObjectID = "dJN-rE-mTT"; */
+"dJN-rE-mTT.text" = "mileage";
+
+/* Class = "UIButton"; normalTitle = "Add"; ObjectID = "eC9-zc-5Zz"; */
+"eC9-zc-5Zz.normalTitle" = "Add";
+
+/* Class = "UILabel"; text = "Total Contacts:"; ObjectID = "mAS-7v-Ddw"; */
+"mAS-7v-Ddw.text" = "Total Contacts:";
+
+/* Class = "UILabel"; text = "5"; ObjectID = "sEC-oQ-s7W"; */
+"sEC-oQ-s7W.text" = "5";
+
+/* Class = "UILabel"; text = "duration"; ObjectID = "x6I-8y-K78"; */
+"x6I-8y-K78.text" = "duration";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "zQ3-12-VqE"; */
+"zQ3-12-VqE.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "zrC-D6-wUu"; */
+"zrC-D6-wUu.text" = "Label";

@@ -1,0 +1,40 @@
+/*
+  Localizable.strings
+  P2
+
+  Created by Grant Yap on 10/25/20.
+  Copyright © 2020 Grant Yap. All rights reserved.
+*/
+"Title" = "Title";
+"Purpose" = "Purpose";
+"Kills" = "Kills";
+"Deaths" = "Deaths";
+"Assists" = "Assists";
+"Cancel" = "Cancel";
+"Add" = "Add";
+"Total Kills" = "Total Kills";
+"Total Deaths" = "Total Deaths";
+"Total Assists" = "Total Assists";
+"Back" = "Back";
+"Stat" = "Stat";
+"Mileage: " = "Mileage: ";
+"Duration: " = "Duration: ";
+"Contacts: " = "Contacts: ";
+"Errand" = "Errand";
+"Visit" = "Visit";
+"Exercise" = "Exercise";
+"Welcome!" = "Welcome!";
+"This app let's you track what you did during games, what champs (only a few) you've played, and how many kills, assists, and deaths you had in a game." = "This app let's you track what you do on common visits, whether exercising, visiting somewhere, or running an errand, please enjoy!";
+"Close" = "Close";
+"League of Legends kda tracker" = "League of Legends kda tracker";
+"Are you sure you want to delete \(title)? This cannot be undone!" = "Are you sure you want to delete \(title)? This cannot be undone!";
+"Warning" = "Warning";
+"Delete" = "Delete";
+"Cancel" = "Cancel";
+"Blue" = "Blue";
+"Red" = "Red";
+"Green" = "Green";
+"Purple" = "Purple";
+"Yellow" = "Yellow";
+"Pink" = "Pink";
+"Button" = "Button";
