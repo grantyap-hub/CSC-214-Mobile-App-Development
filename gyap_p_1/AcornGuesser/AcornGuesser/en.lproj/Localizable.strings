@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  AcornGuesser
+
+  Created by Grant Yap on 9/27/20.
+  Copyright © 2020 Grant Yap. All rights reserved.
+*/
+
+"Start" = "Start";
+"Score" = "Score";
+"Closeness" = "Closeness";
+"You got it! Good Job!" = "You got it! Good Job!";
+"Almost there!" = "Almost there!";
+"About Half Way" = "About Half Way";
+"Not Very Close" = "Not Very Close";
+"Just Keep Trying!" = "Just Keep Trying!";
+"Keep on tapping!" = "Keep on tapping!";
+

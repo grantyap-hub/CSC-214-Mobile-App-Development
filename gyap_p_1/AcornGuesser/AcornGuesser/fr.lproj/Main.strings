@@ -1,0 +1,15 @@
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "EMN-KJ-wSr"; */
+"EMN-KJ-wSr.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Score"; ObjectID = "LOd-f5-Yzb"; */
+"LOd-f5-Yzb.text" = "Score";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "VhW-9T-hdd"; */
+"VhW-9T-hdd.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "kVM-gD-PQ6"; */
+"kVM-gD-PQ6.text" = "Label";
+
+/* Class = "UILabel"; text = "Closeness"; ObjectID = "m5u-Cr-c9w"; */
+"m5u-Cr-c9w.text" = "Closeness";
