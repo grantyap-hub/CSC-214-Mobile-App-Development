@@ -1,0 +1,176 @@
+[
+    {
+        "rating": 3,
+        "released": 1986,
+        "genre": "Action RPG",
+        "title": "The Legend of Zelda"
+    },
+    {
+        "rating": 3,
+        "released": 2012,
+        "genre": "Action RPG",
+        "title": "Diablo III"
+    },
+    {
+        "rating": 2,
+        "released": 2009,
+        "genre": "Action RPG",
+        "title": "Borderlands"
+    },
+    {
+        "rating": 3,
+        "released": 1986,
+        "genre": "Action RPG",
+        "title": "Metroid"
+    },
+    {
+        "rating": 2,
+        "released": 2013,
+        "genre": "First Person Shooter",
+        "title": "BioShock Infinite"
+    },
+    {
+        "rating": 3,
+        "released": 2016,
+        "genre": "First Person Shooter",
+        "title": "Doom"
+    },
+    {
+        "rating": 2,
+        "released": 2015,
+        "genre": "First Person Shooter",
+        "title": "Dying Light"
+    },
+    {
+        "rating": 2,
+        "released": 2015,
+        "genre": "First Person Shooter",
+        "title": "Evolve"
+    },
+    {
+        "rating": 3,
+        "released": 1997,
+        "genre": "First Person Shooter",
+        "title": "Half-Life 3"
+    },
+    {
+        "rating": 3,
+        "released": 1999,
+        "genre": "First Person Shooter",
+        "title": "Quake"
+    },
+    {
+        "rating": 2,
+        "released": 2014,
+        "genre": "First Person Shooter",
+        "title": "Titanfall"
+    },
+    {
+        "rating": 3,
+        "released": 1994,
+        "genre": "JRPG",
+        "title": "Final Fantasy IV"
+    },
+    {
+        "rating": 1,
+        "released": 2017,
+        "genre": "JRPG",
+        "title": "Ni No Kuni 2"
+    },
+    {
+        "rating": 3,
+        "released": 2017,
+        "genre": "JRPG",
+        "title": "Nights of Azure"
+    },
+    {
+        "rating": 2,
+        "released": 2017,
+        "genre": "Platformer",
+        "title": "Super Mario Odyssey"
+    },
+    {
+        "rating": 2,
+        "released": 2017,
+        "genre": "Platformer",
+        "title": "Sonic Mania"
+    },
+    {
+        "rating": 1,
+        "released": 2018,
+        "genre": "Platformer",
+        "title": "Runner 3"
+    },
+    {
+        "rating": 3,
+        "released": 1985,
+        "genre": "Side Scroller",
+        "title": "Super Mario Brothers"
+    },
+    {
+        "rating": 2,
+        "released": 2013,
+        "genre": "Side Scroller",
+        "title": "Rayman Legends"
+    },
+    {
+        "rating": 3,
+        "released": 2014,
+        "genre": "Side Scroller",
+        "title": "Shovel Knight"
+    },
+    {
+        "rating": 1,
+        "released": 2007,
+        "genre": "Team Shooter",
+        "title": "Team Fortress 2"
+    },
+    {
+        "rating": 3,
+        "released": 2017,
+        "genre": "Team Shooter",
+        "title": "Fortnite"
+    },
+    {
+        "rating": 2,
+        "released": 2016,
+        "genre": "Team Shooter",
+        "title": "Overwatch"
+    },
+    {
+        "rating": 2,
+        "released": 2008,
+        "genre": "Team Shooter",
+        "title": "Left 4 Dead"
+    },
+    {
+        "rating": 3,
+        "released": 2017,
+        "genre": "Tower Defense",
+        "title": "Kingdom Rush"
+    },
+    {
+        "rating": 1,
+        "released": 2012,
+        "genre": "Tower Defense",
+        "title": "Orcs Must Die 2"
+    },
+    {
+        "rating": 2,
+        "released": 2017,
+        "genre": "Tower Defense",
+        "title": "Warzone 2100"
+    },
+    {
+        "rating": 2,
+        "released": 2007,
+        "genre": "Western RPG",
+        "title": "Mass Effect"
+    },
+    {
+        "rating": 3,
+        "released": 2015,
+        "genre": "Western RPG",
+        "title": "The Witcher 3"
+    }
+]
